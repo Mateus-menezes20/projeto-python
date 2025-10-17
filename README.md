@@ -116,15 +116,6 @@ OK
 
 ---
 
-##  Autor
+## minimapa:
 
-Desenvolvido por **Mateus Felipe**  
- [andrew19@gmail.com]  
- Projeto acadêmico de T.I — Sistema de Gerenciamento de Eventos  
-
----
-
-##  Licença
-
-Este projeto é de uso **educacional e livre para estudo**.  
-Sinta-se à vontade para modificar e expandir.
+![alt text](<Captura de tela 2025-10-16 230700.png>)
