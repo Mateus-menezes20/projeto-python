@@ -1,0 +1,38 @@
+{
+  "eventos": [
+    {
+      "tipo": "Workshop",
+      "nome": "Oficina de Artes",
+      "data": "19/11/2025",
+      "local": "Rua Bartolomeu",
+      "capacidade_maxima": 50,
+      "categoria": "Artes",
+      "preco": 20.0,
+      "inscritos": [
+        "andrew19@gmail.com"
+      ],
+      "presenca": [
+        "andrew19@gmail.com"
+      ]
+    },
+    {
+      "tipo": "Palestra",
+      "nome": "Artes Cênicas Modernas",
+      "data": "20/11/2025",
+      "local": "Rua Eucalipto",
+      "capacidade_maxima": 60,
+      "categoria": "Artes",
+      "preco": 50.0,
+      "inscritos": [],
+      "presenca": []
+    }
+  ],
+  "participantes": {
+    "andrew19@gmail.com": {
+      "nome": "Andrew",
+      "eventos": [
+        "Oficina de Artes"
+      ]
+    }
+  }
+}
